@@ -1,4 +1,3 @@
 # VOLUNTEERS on MAP
 
-![isl-bw](https://github.com/husnimubarok/pmi-svg/blob/main/svg/design/kaos/isl-bw.png)
-![vom-bw](./vom-bw.png)
+![isl-vom-bw](./vom_t-shirt_v2.svg)
