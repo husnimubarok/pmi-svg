@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="vom_arcade.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9647587"
+     inkscape:cx="309.46869"
+     inkscape:cy="208.78596"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17472"
+     objecttolerance="10000"
+     showguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid32902" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <style
+       id="style5910">.cls-1{fill:none;}.cls-2{fill:#fff;}.cls-3{fill:#f5333f;}.cls-4{clip-path:url(#clip-path);}.cls-5{fill:#333132;}</style>
+    <clipPath
+       id="clip-path"
+       transform="translate(-94.73 -93.38)">
+      <rect
+         class="cls-1"
+         width="841.89"
+         height="380.21"
+         id="rect5912" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.5144;stroke-linecap:square"
+       id="rect14181"
+       width="76.729164"
+       height="29.10417"
+       x="43.002914"
+       y="28.349436" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.618324"
+       y="55.779896"
+       id="text14229"><tspan
+         sodipodi:role="line"
+         id="tspan14227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#666666;stroke-width:0.264583"
+         x="43.618324"
+         y="55.779896">1</tspan></text>
+    <path
+       class="cls-3"
+       d="m 58.083571,38.302523 a 3.0253501,3.0253501 0 0 1 -4.08267,2.83452 3.6302729,3.6302729 0 1 0 -0.0611,-5.6462 3.0268238,3.0268238 0 0 1 4.14383,2.81168"
+       id="path33127-4"
+       style="fill:#f5333f;stroke-width:0.0736811" />
+    <g
+       id="g14968"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(2.0371916,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 49.85913,60.946188 h 0.948265 v 0.948265 H 49.85913 Z"
+         id="path14302" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 45.371805,60.946188 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14300" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 49.85913,59.82859 h 0.948265 v 0.948265 H 49.85913 Z"
+         id="path14294" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 45.371805,59.82859 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14292" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 49.85913,58.710992 h 0.948265 v 0.948265 H 49.85913 Z"
+         id="path14286" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 45.371805,58.710992 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14284" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 49.85913,57.593394 h 0.948265 v 0.948265 H 49.85913 Z"
+         id="path14278" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 45.371805,57.593394 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14276" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 47.607001,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14270" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 48.741532,63.198317 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14264" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 46.489403,63.198317 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14262" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 49.85913,62.080719 h 0.948265 v 0.948265 H 49.85913 Z"
+         id="path14256" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 45.371805,62.080719 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14254" />
+    </g>
+    <g
+       id="g14935"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-1.9826801,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 62.982453,60.946188 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path14402" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 62.982453,59.82859 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path14398" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 62.982453,58.710992 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path14394" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 62.982453,57.593394 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path14390" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 67.469777,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14384" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 66.352179,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14382" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 65.217648,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14380" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 64.10005,64.315915 h 0.948265 v 0.948264 H 64.10005 Z"
+         id="path14378" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 62.982453,64.315915 h 0.948264 v 0.948264 h -0.948264 z"
+         id="path14376" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 62.982453,63.198317 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path14372" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 62.982453,62.080719 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path14368" />
+    </g>
+    <g
+       id="g14922"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-3.7280307,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 76.2751,60.946188 h 0.948265 v 0.948265 H 76.2751 Z"
+         id="path14458" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 71.787775,60.946188 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14456" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 76.2751,59.82859 h 0.948265 v 0.948265 H 76.2751 Z"
+         id="path14450" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 71.787775,59.82859 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14448" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 76.2751,58.710992 h 0.948265 v 0.948265 H 76.2751 Z"
+         id="path14442" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 71.787775,58.710992 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14440" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 76.2751,57.593394 h 0.948265 v 0.948265 H 76.2751 Z"
+         id="path14434" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 71.787775,57.593394 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14432" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 76.2751,64.315915 h 0.948265 v 0.948264 H 76.2751 Z"
+         id="path14428" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 75.157502,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14426" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 74.022971,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14424" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 72.905373,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14422" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 71.787775,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14420" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 76.2751,63.198317 h 0.948265 v 0.948265 H 76.2751 Z"
+         id="path14416" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 71.787775,63.198317 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14414" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 76.2751,62.080719 h 0.948265 v 0.948265 H 76.2751 Z"
+         id="path14408" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 71.787775,62.080719 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14406" />
+    </g>
+    <g
+       id="g14903"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-5.4733842,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 85.080424,60.946188 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14526" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 80.5931,60.946188 h 0.948265 v 0.948265 H 80.5931 Z"
+         id="path14520" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 85.080424,59.82859 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14514" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 80.5931,59.82859 h 0.948265 v 0.948265 H 80.5931 Z"
+         id="path14508" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 85.080424,58.710992 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14502" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 80.5931,58.710992 h 0.948265 v 0.948265 H 80.5931 Z"
+         id="path14498" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 85.080424,57.593394 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14492" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 80.5931,57.593394 h 0.948265 v 0.948265 H 80.5931 Z"
+         id="path14490" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 85.080424,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14484" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 80.5931,64.315915 h 0.948265 v 0.948264 H 80.5931 Z"
+         id="path14482" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 85.080424,63.198317 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14476" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 80.5931,63.198317 h 0.948265 v 0.948265 H 80.5931 Z"
+         id="path14474" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 85.080424,62.080719 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14468" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 80.5931,62.080719 h 0.948265 v 0.948265 H 80.5931 Z"
+         id="path14464" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 81.710698,58.710992 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path16539" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 82.828295,59.82859 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path16541" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 83.962827,60.946188 h 0.948264 v 0.948265 h -0.948264 z"
+         id="path16543" />
+    </g>
+    <g
+       id="g14871"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-8.9640862,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 101.57347,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14618" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 100.43894,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14616" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 99.321343,60.946188 h 0.948267 v 0.948265 h -0.948267 z"
+         id="path14614" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 98.203745,60.946188 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14612" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 98.203745,59.82859 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14608" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 98.203745,58.710992 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14604" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 102.69107,57.593394 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14598" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 101.57347,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14596" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 100.43894,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14594" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 99.321343,57.593394 h 0.948267 v 0.948265 h -0.948267 z"
+         id="path14592" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 98.203745,57.593394 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14590" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 102.69107,64.315915 h 0.94826 v 0.948264 h -0.94826 z"
+         id="path14584" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 101.57347,64.315915 h 0.94827 v 0.948264 h -0.94827 z"
+         id="path14582" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 100.43894,64.315915 h 0.94827 v 0.948264 h -0.94827 z"
+         id="path14580" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 99.321343,64.315915 h 0.948267 v 0.948264 h -0.948267 z"
+         id="path14578" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 98.203745,64.315915 h 0.948265 v 0.948264 h -0.948265 z"
+         id="path14576" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 98.203745,63.198317 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14572" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 98.203745,62.080719 h 0.948265 v 0.948265 h -0.948265 z"
+         id="path14568" />
+    </g>
+    <g
+       id="g14851"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-10.70944,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 110.3788,60.946188 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14674" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 109.24427,60.946188 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14672" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 108.12667,60.946188 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14670" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 107.00907,60.946188 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14668" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 107.00907,59.82859 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14664" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 107.00907,58.710992 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14660" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 111.49639,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14654" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 110.3788,57.593394 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14652" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 109.24427,57.593394 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14650" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 108.12667,57.593394 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14648" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 107.00907,57.593394 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14646" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 111.49639,64.315915 h 0.94827 v 0.948264 h -0.94827 z"
+         id="path14640" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 110.3788,64.315915 h 0.94826 v 0.948264 h -0.94826 z"
+         id="path14638" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 109.24427,64.315915 h 0.94826 v 0.948264 h -0.94826 z"
+         id="path14636" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 108.12667,64.315915 h 0.94826 v 0.948264 h -0.94826 z"
+         id="path14634" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 107.00907,64.315915 h 0.94826 v 0.948264 h -0.94826 z"
+         id="path14632" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 107.00907,63.198317 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14628" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 107.00907,62.080719 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14624" />
+    </g>
+    <g
+       id="g14831"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-12.454788,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 119.18412,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14738" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 118.04959,60.946188 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14736" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 116.93199,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14734" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 115.81439,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14732" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 120.30172,59.82859 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14726" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 115.81439,59.82859 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14724" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 120.30172,58.710992 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14718" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 115.81439,58.710992 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14716" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 119.18412,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14710" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 118.04959,57.593394 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14708" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 116.93199,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14706" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 115.81439,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14704" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 120.30172,64.315915 h 0.94826 v 0.948264 h -0.94826 z"
+         id="path14698" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 115.81439,64.315915 h 0.94827 v 0.948264 h -0.94827 z"
+         id="path14696" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 119.18412,63.198317 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14690" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 115.81439,63.198317 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14688" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 118.04959,62.080719 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14682" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 115.81439,62.080719 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14680" />
+    </g>
+    <g
+       id="g14811"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-14.200137,-23.344657)">
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 127.98944,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14792" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 126.85491,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14790" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 125.73731,60.946188 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14788" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 124.61971,59.82859 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14784" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 129.10704,58.710992 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14778" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 124.61971,58.710992 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14776" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 127.98944,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14770" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 126.85491,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14768" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 125.73731,57.593394 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14766" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 127.98944,64.315915 h 0.94827 v 0.948264 h -0.94827 z"
+         id="path14760" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 126.85491,64.315915 h 0.94827 v 0.948264 h -0.94827 z"
+         id="path14758" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 125.73731,64.315915 h 0.94827 v 0.948264 h -0.94827 z"
+         id="path14756" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 129.10704,63.198317 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14750" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 124.61971,63.198317 h 0.94827 v 0.948265 h -0.94827 z"
+         id="path14748" />
+      <path
+         style="font-family:Arcade;-inkscape-font-specification:Arcade"
+         d="m 129.10704,62.080719 h 0.94826 v 0.948265 h -0.94826 z"
+         id="path14249" />
+    </g>
+    <g
+       id="g15725"
+       transform="translate(-1.5262299,1.5540815)">
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.808152,43.127401 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15604" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 82.312375,43.127401 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15602" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.808152,42.754868 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15596" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 82.312375,42.754868 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15594" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.808152,42.382335 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15588" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 82.312375,42.382335 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15586" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.435619,42.009801 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15580" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="M 83.057441,42.009801 H 83.37353 V 42.32589 H 83.057441 Z"
+         id="path15578" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 82.684908,42.009801 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15576" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.435619,44.250644 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15570" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.057441,44.250644 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15568" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 82.684908,44.250644 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15566" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.808152,43.878111 h 0.316089 V 44.1942 h -0.316089 z"
+         id="path15560" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 82.312375,43.878111 h 0.316089 V 44.1942 h -0.316089 z"
+         id="path15558" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 83.808152,43.505578 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15552" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 82.312375,43.505578 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15550" />
+    </g>
+    <g
+       id="g15744"
+       transform="translate(-2.1203092,1.5540815)">
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.743263,43.127401 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15672" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.37073,43.127401 h 0.316089 v 0.316088 H 86.37073 Z"
+         id="path15670" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.247487,43.127401 h 0.316088 v 0.316088 h -0.316088 z"
+         id="path15666" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.743263,42.754868 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15660" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.992553,42.754868 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15658" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.247487,42.754868 h 0.316088 v 0.316088 h -0.316088 z"
+         id="path15654" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.743263,42.382335 h 0.316089 v 0.316088 h -0.316089 z"
+         id="path15648" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.62002,42.382335 h 0.316088 v 0.316088 H 85.62002 Z"
+         id="path15646" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.247487,42.382335 h 0.316088 v 0.316088 h -0.316088 z"
+         id="path15644" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.743263,42.009801 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15638" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.247487,42.009801 h 0.316088 v 0.316089 h -0.316088 z"
+         id="path15636" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.743263,44.250644 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15630" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.247487,44.250644 h 0.316088 v 0.316089 h -0.316088 z"
+         id="path15628" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.743263,43.878111 h 0.316089 V 44.1942 h -0.316089 z"
+         id="path15622" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.247487,43.878111 h 0.316088 V 44.1942 h -0.316088 z"
+         id="path15620" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 86.743263,43.505578 h 0.316089 v 0.316089 h -0.316089 z"
+         id="path15614" />
+      <path
+         style="font-weight:bold;font-size:5.64444px;line-height:1.25;font-family:Arcade;-inkscape-font-specification:'Arcade Bold';fill:#f5333f;stroke-width:0.264583"
+         d="m 85.247487,43.505578 h 0.316088 v 0.316089 h -0.316088 z"
+         id="path15610" />
+    </g>
+    <polygon
+       class="cls-3"
+       points="110.25,111.56 110.25,111.55 110.25,145.6 81.07,145.6 81.07,111.55 81.07,111.56 47.02,111.56 47.02,82.38 81.07,82.38 81.07,82.36 81.07,48.31 110.25,48.31 110.25,82.36 110.25,82.38 144.3,82.38 144.3,111.56 "
+       id="polygon14191"
+       style="fill:#f5333f"
+       transform="matrix(0.07257372,0,0,0.07257372,77.992686,31.062749)" />
+    <g
+       aria-label="MAPS"
+       id="text15158"
+       style="font-size:17.6389px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(-1.783227,1.743394)">
+      <g
+         id="g15541"
+         transform="translate(-33.50832,-1.0727711)">
+        <g
+           id="g15470">
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 129.20391,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15231" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 125.69377,46.385762 h 0.98777 v 0.987778 h -0.98777 z"
+             id="path15225" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 122.20126,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15219" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 129.20391,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15217" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 126.87557,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15213" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 124.5296,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15211" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 122.20126,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15207" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 129.20391,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15205" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 128.03974,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15203" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 123.36543,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15201" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 122.20126,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15199" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 129.20391,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15197" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 122.20126,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15195" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 129.20391,49.895903 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15193" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 122.20126,49.895903 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15187" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 129.20391,48.731735 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15185" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 122.20126,48.731735 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15179" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 129.20391,47.567568 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15177" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 122.20126,47.567568 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15160" />
+        </g>
+        <g
+           id="g15449"
+           transform="translate(-1.0230633)">
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 137.21198,46.385762 h 0.98777 v 0.987778 h -0.98777 z"
+             id="path15289" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 132.53767,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15287" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 137.21198,45.221594 h 0.98777 v 0.987779 h -0.98777 z"
+             id="path15281" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 132.53767,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15279" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 136.04781,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15273" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 133.70183,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15271" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 134.866,42.893259 h 0.98778 v 0.987779 H 134.866 Z"
+             id="path15265" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 137.21198,49.895903 h 0.98777 v 0.987778 h -0.98777 z"
+             id="path15259" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 132.53767,49.895903 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15257" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 137.21198,48.731735 h 0.98777 v 0.987779 h -0.98777 z"
+             id="path15251" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 132.53767,48.731735 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15249" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 137.21198,47.567568 h 0.98777 v 0.987778 h -0.98777 z"
+             id="path15243" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 136.04781,47.567568 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15241" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 134.866,47.567568 h 0.98778 v 0.987778 H 134.866 Z"
+             id="path15239" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 133.70183,47.567568 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15237" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 132.53767,47.567568 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15235" />
+        </g>
+        <g
+           id="g15431"
+           transform="translate(-3.2102866)">
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 145.22005,46.385762 h 0.98777 v 0.987778 h -0.98777 z"
+             id="path15341" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 144.03824,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15339" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 142.87407,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15337" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 141.7099,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15335" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 146.38421,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15329" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 141.7099,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15327" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 146.38421,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15321" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 141.7099,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15319" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 145.22005,42.893259 h 0.98777 v 0.987779 h -0.98777 z"
+             id="path15313" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 144.03824,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15311" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 142.87407,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15309" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 141.7099,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15307" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 141.7099,49.895903 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15303" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 141.7099,48.731735 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15299" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 141.7099,47.567568 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15295" />
+        </g>
+        <g
+           id="g15414"
+           transform="translate(-5.3975199)">
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 154.39228,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15395" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 153.21047,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15393" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 152.04631,46.385762 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15391" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 150.88214,45.221594 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15387" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 155.55645,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15381" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 150.88214,44.057427 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15379" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 154.39228,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15373" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 153.21047,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15371" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 152.04631,42.893259 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15369" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 154.39228,49.895903 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15363" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 153.21047,49.895903 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15361" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 152.04631,49.895903 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15359" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 155.55645,48.731735 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15353" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 150.88214,48.731735 h 0.98778 v 0.987779 h -0.98778 z"
+             id="path15351" />
+          <path
+             style="font-family:Arcade;-inkscape-font-specification:Arcade"
+             d="m 155.55645,47.567568 h 0.98778 v 0.987778 h -0.98778 z"
+             id="path15166" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g17472"
+       transform="translate(27.127914,-42.910843)">
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.5144;stroke-linecap:square"
+         id="rect33115"
+         width="76.729164"
+         height="29.10417"
+         x="15.875"
+         y="101.07087" />
+      <polygon
+         class="cls-3"
+         points="81.07,82.36 81.07,48.31 110.25,48.31 110.25,82.36 110.25,82.38 144.3,82.38 144.3,111.56 110.25,111.56 110.25,111.55 110.25,145.6 81.07,145.6 81.07,111.55 81.07,111.56 47.02,111.56 47.02,82.38 81.07,82.38 "
+         id="polygon33125"
+         style="fill:#f5333f"
+         transform="matrix(0.07257372,0,0,0.07257372,50.647311,103.43253)" />
+      <path
+         class="cls-3"
+         d="m 28.900885,110.40045 a 3.0253501,3.0253501 0 0 1 -4.08267,2.83452 3.6302729,3.6302729 0 1 0 -0.0611,-5.6462 3.0268238,3.0268238 0 0 1 4.14383,2.81168"
+         id="path33127"
+         style="stroke-width:0.0736811" />
+      <g
+         aria-label="VOLUNTEERS"
+         id="text33131"
+         style="font-size:14.8167px;line-height:1.25;stroke-width:0.264583"
+         transform="translate(-2.3690834,-1.9904583)">
+        <path
+           d="m 19.685024,113.03767 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 3.926425,0 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m -4.904328,0.9779 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 1.970621,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m -2.948523,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 H 22.61873 Z m 0.992719,0 h 0.829735 v 0.82974 h -0.829735 z m -3.926425,-5.88223 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,0.97791 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 3.926425,0 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17161" />
+        <path
+           d="m 33.506905,113.03767 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m -0.977902,0.9779 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m -0.977902,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82974 H 37.43333 Z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.882229,-5.88223 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -0.977902,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -0.977902,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -0.977902,0.97791 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17165" />
+        <path
+           d="m 41.211596,113.03767 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m -5.882229,0.9779 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m -4.904327,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 H 43.1674 Z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -4.904327,-5.88223 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.882229,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.882229,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.882229,0.97791 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17167" />
+        <path
+           d="m 48.916286,113.03767 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m 2.948523,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m -5.88223,0.9779 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m -5.88223,0.9779 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.88223,-5.88223 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 3.926425,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.88223,0.9779 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 2.948523,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.88223,0.9779 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 1.970621,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -5.88223,0.97791 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m 1.955804,0 h 0.829735 v 0.82973 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17169" />
+        <path
+           d="m 64.325668,113.03767 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m -0.977903,0.9779 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m -0.977903,0.9779 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,-5.88223 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,0.9779 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m -0.977903,0.9779 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m -0.977903,0.97791 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17173" />
+        <path
+           d="m 72.030361,113.03767 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m -0.977902,0.9779 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m -0.977902,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,-5.88223 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -0.977902,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m -0.977902,0.97791 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17175" />
+        <path
+           d="m 79.73505,113.03767 h 0.829735 v 0.82973 H 79.73505 Z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m 1.955805,0 h 0.829735 v 0.82973 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82973 h -0.829735 z m -3.926426,0.9779 h 0.829735 v 0.82973 H 79.73505 Z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m 2.948524,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m -4.904328,0.9779 h 0.829735 v 0.82974 H 79.73505 Z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 3.926426,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 H 85.61728 Z m -5.88223,-5.88223 h 0.829735 v 0.82974 H 79.73505 Z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -4.904328,0.9779 h 0.829735 v 0.82974 H 79.73505 Z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 3.926426,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 H 85.61728 Z m -5.88223,0.9779 h 0.829735 v 0.82974 H 79.73505 Z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 3.926426,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 H 85.61728 Z m -5.88223,0.97791 h 0.829735 v 0.82973 H 79.73505 Z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 0.992719,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17177" />
+        <path
+           d="m 92.344067,113.03767 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m -5.88223,0.9779 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82973 h -0.829736 z m 3.926426,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m -4.904328,0.9779 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 H 92.1959 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -3.926426,-5.88223 h 0.829736 v 0.82974 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m 0.992719,0 H 92.1959 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -4.904328,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 3.926426,0 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82974 h -0.829735 z m -5.88223,0.9779 h 0.829735 v 0.82974 h -0.829735 z m 0.977902,0 h 0.829736 v 0.82974 h -0.829736 z m 0,0.97791 h 0.829736 v 0.82973 h -0.829736 z m 0.977903,0 h 0.829735 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z m 0.992719,0 H 92.1959 v 0.82973 h -0.829735 z m 0.977902,0 h 0.829735 v 0.82973 h -0.829735 z"
+           style="font-family:Arcade;-inkscape-font-specification:Arcade"
+           id="path17179" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="16.404167"
+         y="129.67259"
+         id="text39455"><tspan
+           sodipodi:role="line"
+           id="tspan39453"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#666666;stroke-width:0.264583"
+           x="16.404167"
+           y="129.67259">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.8167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="62.246563"
+         y="126.9016"
+         id="text17155"><tspan
+           id="tspan17153"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8167px;font-family:Arcade;-inkscape-font-specification:Arcade">MAPS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="53.446766"
+         y="120.75617"
+         id="text17159"><tspan
+           id="tspan17157"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Arcade;-inkscape-font-specification:Arcade;fill:#ff0000">ON</tspan></text>
+    </g>
+  </g>
+</svg>
