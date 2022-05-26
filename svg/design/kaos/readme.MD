@@ -1,3 +1,3 @@
 # VOLUNTEERS on MAP
 
-[!output-result](./isl-bw.png)
+[./isl-bw.png](https://github.com/husnimubarok/pmi-svg/blob/main/svg/design/kaos/isl-bw.png)
