@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g>
+		<g>
+			<path class="st0" d="M250.39,426.92L250.39,426.92c-35.77,0-64.77-29-64.77-64.77c0,0,9.32-223.09,64.77-223.09
+				s64.77,223.09,64.77,223.09C315.16,397.92,286.16,426.92,250.39,426.92z"/>
+			<path class="st0" d="M239.22,141.93V74.25c0-6.17,5-11.17,11.17-11.17h0c6.17,0,11.17,5,11.17,11.17v67.68"/>
+			<g>
+				<path class="st0" d="M237.24,141.93l-62.37-6.26c-1.61-0.19-2.38,1.91-1.03,2.81l44.45,29.74"/>
+				<path class="st0" d="M263.54,141.93l62.37-6.26c1.61-0.19,2.38,1.91,1.03,2.81l-44.45,29.74"/>
+			</g>
+			<path class="st0" d="M250.39,339.49L250.39,339.49c-13.26,0-25.69-3.5-36.46-9.61c-1.63-0.92-3.65,0.28-3.67,2.15c0,0,0,0,0,0
+				c0,22.16,17.96,33.12,40.13,33.12l0,0c22.16,0,40.13-10.96,40.13-33.12l0,0c-0.02-1.87-2.04-3.07-3.67-2.15
+				C276.08,335.99,263.65,339.49,250.39,339.49z"/>
+			<g>
+				<path class="st0" d="M194.16,247.01l-148.32-30v0c0,14.81,8.03,28.45,20.97,35.64l119.35,66.32"/>
+				<circle class="st0" cx="132.46" cy="319.58" r="26.65"/>
+				<circle class="st0" cx="79.74" cy="279.72" r="16.91"/>
+				<path class="st0" d="M305.84,247.01l148.32-30v0c0,14.81-8.03,28.45-20.97,35.64l-119.35,66.32"/>
+				<circle class="st0" cx="367.54" cy="319.58" r="26.65"/>
+				<circle class="st0" cx="420.26" cy="279.72" r="16.91"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>

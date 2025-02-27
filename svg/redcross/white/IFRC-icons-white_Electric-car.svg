@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g>
+		<g>
+			<path class="st0" d="M391.3,313.24H151.42h0c18.8-34.63,46.76-66.05,146.66-66.93c3.92-0.03,7.86,0.1,11.77,0.38h0
+				c7.45,0.53,14.87,1.57,22.14,3.27C369.56,258.73,391.3,277.12,391.3,313.24L391.3,313.24z"/>
+			<circle class="st0" cx="151.42" cy="412.53" r="24.43"/>
+			<circle class="st0" cx="343.32" cy="412.53" r="24.43"/>
+			<line class="st0" x1="267.03" y1="240.07" x2="267.03" y2="309.69"/>
+			<line class="st0" x1="351.32" y1="254.72" x2="351.32" y2="307.69"/>
+			<line class="st0" x1="67.59" y1="369.66" x2="91.45" y2="369.66"/>
+			<line class="st0" x1="391.3" y1="351.7" x2="421.41" y2="351.7"/>
+		</g>
+		<rect x="208.02" y="83.76" class="st0" width="71.97" height="119.94"/>
+		<polyline class="st0" points="251.26,107.75 236.74,145.63 251.26,145.63 236.74,179.72 		"/>
+		<path class="st0" d="M225.25,89.49V73.52c0-5.79,4.7-10.49,10.49-10.49h15.51c5.79,0,10.49,4.7,10.49,10.49v15.96"/>
+		<path class="st0" d="M421.41,385.68v-31.54c0-18.65-12.24-35.09-30.11-40.43h0H151.17c-22.41,0-75.24,5-83.58,45.58v26.39h0
+			c-6.1,0-11.05,4.95-11.05,11.05v4.59c0,6.1,4.95,11.05,11.05,11.05h35.86c0.09-26.42,21.53-47.8,47.97-47.8
+			c26.44,0,47.88,21.39,47.97,47.8h95.96c0.09-26.42,21.53-47.8,47.97-47.8c26.44,0,47.88,21.39,47.97,47.8h30.12
+			c5.55,0,10.05-4.5,10.05-10.05v-6.59C431.46,390.17,426.96,385.68,421.41,385.68L421.41,385.68z"/>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>

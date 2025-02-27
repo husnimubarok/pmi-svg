@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g>
+		<g>
+			<g>
+				<polyline class="st0" points="265.12,178.03 405.92,178.03 405.92,369.94 94.08,369.94 94.08,178.03 234.88,178.03 				"/>
+				<rect x="405.92" y="238" class="st0" width="35.98" height="71.97"/>
+				<path class="st0" d="M250,219.01L250,219.01c-8.35,0-15.12-6.77-15.12-15.12v-53.71c0-8.35,6.77-15.12,15.12-15.12h0
+					c8.35,0,15.12,6.77,15.12,15.12v53.71C265.12,212.24,258.35,219.01,250,219.01z"/>
+				<rect x="58.09" y="238" class="st0" width="35.98" height="71.97"/>
+				<polyline class="st0" points="250.3,219.01 226.01,238 258,258.99 234.88,276.44 277.28,293.88 202.02,309.97 258.12,328.02 
+					250.38,337.5 250.38,367.82 				"/>
+			</g>
+			<g>
+				<path class="st0" d="M429.91,308.3v12.65c0,13.81-11.19,25-25,25"/>
+				<path class="st0" d="M70.09,236.95V131.06c0-13.81,11.19-25,25-25h309.83c13.81,0,25,11.19,25,25v104.91"/>
+				<path class="st0" d="M95.09,345.95c-13.81,0-25-11.19-25-25V308.3"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>
