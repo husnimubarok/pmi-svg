@@ -1,40 +1,45 @@
-# IFRC icon stocks
+# IFRC Icon Stocks
 
 ## Icon Samples
 
+### Color Icons
 <table>
- <tr>
-   <td><img="./color/IFRC-icons-colour_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
-   <td><img="./color/IFRC-icons-colour_Floods.svg" alt="Flood" width="100"></td>
-   <td><img="./color/IFRC-icons-colour_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
- </tr>
- <tr>
-   <td>Earth</td>
-   <td>Flood>
-    <td>Wild</td>
- </tr>
-</table### Black and White Icons
+  <tr>
+    <td><img src="./color/IFRC-icons-colour_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
+    <td><img src="./color/IFRC-icons-colour_Floods.svg" alt="Flood" width="100"></td>
+    <td><img src="./color/IFRC-icons-colour_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
+  </tr>
+  <tr>
+    <td>Earthquake</td>
+    <td>Flood</td>
+    <td>Cash Assistance</td>
+  </tr>
+</table>
+
+### Black and White Icons
 <table>
- <tr>
-   <td><img="./black/IFRC-icons-black_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
-   <td><img="./black/IFRC-icons-black_Floods.svg" alt="Flood" width="100"></td>
-   <td><img="./black/IFRC-icons-black_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
- </tr>
- <tr>
-   <td>Earth</td>
-   <td>Flood>
-    <td>Wild</td>
- </tr>
-</table### Black and White Icons (Alternative)
+  <tr>
+    <td><img src="./black/IFRC-icons-black_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
+    <td><img src="./black/IFRC-icons-black_Floods.svg" alt="Flood" width="100"></td>
+    <td><img src="./black/IFRC-icons-black_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
+  </tr>
+  <tr>
+    <td>Earthquake</td>
+    <td>Flood</td>
+    <td>Cash Assistance</td>
+  </tr>
+</table>
+
+### White Icons
 <table>
- <tr>
-   <td><img="./white/IFRC-icons-white_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
-   <td><img="./white/IFRC-icons-white_Floods.svg" alt="Flood" width="100"></td>
-   <td><img="./white/IFRC-icons-white_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
- </tr>
- <tr>
-   <td>Earth</td>
-   <td>Flood>
-    <td>Wild</td>
- </tr>
-</table```
+  <tr>
+    <td><img src="./white/IFRC-icons-white_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
+    <td><img src="./white/IFRC-icons-white_Floods.svg" alt="Flood" width="100"></td>
+    <td><img src="./white/IFRC-icons-white_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
+  </tr>
+  <tr>
+    <td>Earthquake</td>
+    <td>Flood</td>
+    <td>Cash Assistance</td>
+  </tr>
+</table>
