@@ -33,9 +33,15 @@
 ### White Icons
 <table>
   <tr>
-    <td style="background-color: black;"><img src="./white/IFRC-icons-white_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
-    <td style="background-color: lightgray;"><img src="./white/IFRC-icons-white_Floods.svg" alt="Flood" width="100"></td>
-    <td style="background-color: lightgray;"><img src="./white/IFRC-icons-white_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
+    <td style="background-color: lightgray; text-align: center;">
+      <img src="./white/IFRC-icons-white_Earthquake-destruction.svg" alt="Earthquake" width="100">
+    </td>
+    <td style="background-color: lightgray; text-align: center;">
+      <img src="./white/IFRC-icons-white_Floods.svg" alt="Flood" width="100">
+    </td>
+    <td style="background-color: lightgray; text-align: center;">
+      <img src="./white/IFRC-icons-white_Cash-programme.svg" alt="Cash Assistance" width="100">
+    </td>
   </tr>
   <tr>
     <td>Earthquake</td>
