@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g>
+		<g>
+			<g>
+				<polyline class="st0" points="74.16,211.57 74.16,63.72 437.84,63.72 437.84,211.57 				"/>
+				<polyline class="st0" points="108.79,211.55 108.79,92.16 403.21,92.16 403.21,211.55 				"/>
+				<rect x="74.16" y="211.57" class="st0" width="363.68" height="204.71"/>
+			</g>
+			<g>
+				<polygon class="st0" points="180.93,182.59 192.67,162.54 186.94,113.85 168.37,113.85 162.63,162.54 174.37,182.59 				"/>
+				<line class="st0" x1="177.65" y1="190.47" x2="177.65" y2="211.57"/>
+				<g>
+					<polyline class="st0" points="325.37,176.84 349.37,176.84 349.37,119.6 325.37,119.6 					"/>
+					<path class="st0" d="M318.04,140.05V119.6h-41.4c-28.17,0-51.01,22.84-51.01,51.01v0c9.24-9.49,21.88-14.9,35.13-15.02
+						l1.38-0.01l0,21.26h55.9v-19.67"/>
+					<line class="st0" x1="279.7" y1="211.57" x2="279.7" y2="176.84"/>
+					<line class="st0" x1="305.42" y1="176.84" x2="305.42" y2="211.57"/>
+				</g>
+			</g>
+			<line class="st0" x1="74.16" y1="279.89" x2="437.84" y2="279.89"/>
+			<line class="st0" x1="74.16" y1="348.08" x2="437.84" y2="348.08"/>
+			<g>
+				<g>
+					<rect x="91.45" y="228.9" width="11.2" height="11.2"/>
+					<rect x="91.45" y="254.19" width="11.2" height="11.2"/>
+				</g>
+				<g>
+					<rect x="409.35" y="228.9" width="11.2" height="11.2"/>
+					<rect x="409.35" y="254.19" width="11.2" height="11.2"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="91.45" y="295.74" width="11.2" height="11.2"/>
+					<rect x="91.45" y="321.03" width="11.2" height="11.2"/>
+				</g>
+				<g>
+					<rect x="409.35" y="295.74" width="11.2" height="11.2"/>
+					<rect x="409.35" y="321.03" width="11.2" height="11.2"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="91.45" y="363.93" width="11.2" height="11.2"/>
+					<rect x="91.45" y="389.22" width="11.2" height="11.2"/>
+				</g>
+				<g>
+					<rect x="409.35" y="363.93" width="11.2" height="11.2"/>
+					<rect x="409.35" y="389.22" width="11.2" height="11.2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g class="st1">
+		<g class="st2">
+			<rect x="-573" y="6" class="st5" width="576" height="576"/>
+			<line class="st3" x1="-573" y1="6" x2="3" y2="582"/>
+			<line class="st3" x1="3" y1="6" x2="-570.5" y2="579.5"/>
+		</g>
+		<line class="st6" x1="-573.25" y1="378.25" x2="1.75" y2="378.25"/>
+		<line class="st6" x1="-572.75" y1="294.25" x2="2.25" y2="294.25"/>
+		<line class="st6" x1="-572.75" y1="210.25" x2="2.25" y2="210.25"/>
+	</g>
+	<g>
+		<path class="st0" d="M106.89,268.66c-7.04-7.3-6.83-18.92,0.47-25.96c7.3-7.04,18.92-6.83,25.96,0.47l54.2,53.73
+			c7.04,7.3,6.83,18.92-0.47,25.96c-7.3,7.04-18.92,6.83-25.96-0.47L106.89,268.66z"/>
+		<path class="st0" d="M222.97,347.92l-76.31,0.33c-10.14-0.18-18.21-8.55-18.02-18.69s8.55-18.21,18.69-18.02"/>
+		<path class="st0" d="M240.97,384.97l-76.31,0.33c-10.14-0.18-18.21-8.55-18.02-18.69s8.55-18.21,18.69-18.02"/>
+		<path class="st0" d="M125.78,235.63c-7.04-7.3-6.83-18.92,0.47-25.96c7.3-7.04,18.92-6.83,25.96,0.47l86.96,86.49
+			c7.04,7.3,6.83,18.92-0.47,25.96s-18.92,6.83-25.96-0.47L125.78,235.63z"/>
+		<path class="st0" d="M144.67,202.6c-7.04-7.3-6.83-18.92,0.47-25.96c7.3-7.04,18.92-6.83,25.96,0.47l81.3,80.83
+			c7.04,7.3,6.83,18.92-0.47,25.96c-7.3,7.04-18.92,6.83-25.96-0.47L144.67,202.6z"/>
+		<path class="st0" d="M163.57,169.56c-7.04-7.3-6.83-18.92,0.47-25.96c7.3-7.04,18.92-6.83,25.96,0.47l48.05,47.57
+			c7.04,7.3,6.83,18.92-0.47,25.96s-18.92,6.83-25.96-0.47L163.57,169.56z"/>
+		<path class="st0" d="M183.31,385.21c-10.14-0.18-18.51,7.88-18.69,18.02s7.88,18.51,18.02,18.69l76.31-0.33l75.55-72.33
+			c11.47-10.98,11.28-29.37-0.41-40.12l-40.75-37.46c-13.89-12.77-14.69-34.41-1.78-48.17L379.91,276l0,0
+			c22.2,27.45,24.46,65.99,5.63,95.84l-45.07,71.44v34.7"/>
+		<path class="st0" d="M341.19,94.34v59.65l25.22,34.54c13.13,17.98,17.26,40.99,11.2,62.42v0"/>
+		<line class="st0" x1="189.15" y1="94.34" x2="189.15" y2="118.33"/>
+		<line class="st0" x1="189.15" y1="441.99" x2="189.15" y2="477.98"/>
+		<path class="st0" d="M381.26,63.52c-33.04-25.99-74.71-41.5-120.01-41.5c-45.3,0-86.98,15.51-120.01,41.5"/>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>
