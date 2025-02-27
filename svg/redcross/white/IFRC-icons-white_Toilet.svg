@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g>
+		<g>
+			<rect x="43.19" y="144.72" class="st0" width="390.48" height="35.98"/>
+			<g>
+				<line class="st0" x1="411.04" y1="180.7" x2="411.04" y2="384.75"/>
+				<line class="st0" x1="65.83" y1="384.75" x2="65.83" y2="180.7"/>
+			</g>
+			<line class="st0" x1="43.19" y1="386.09" x2="433.68" y2="386.09"/>
+			<polyline class="st0" points="262.29,227.55 281.45,257.1 292.9,238.6 304.34,257.1 322.72,227.55 			"/>
+			<path class="st0" d="M369.16,230.04h-12.49c-9.99,0-18.09,8.1-18.09,18.09c0,9.99,8.1,18.09,18.09,18.09h12.65"/>
+			<g>
+				<polyline class="st0" points="115.68,384.75 115.68,234.6 195.36,234.6 195.36,384.75 				"/>
+				<line class="st0" x1="195.36" y1="351.3" x2="413.58" y2="351.3"/>
+				<line class="st0" x1="63.29" y1="351.3" x2="114.97" y2="351.3"/>
+				<g>
+					<rect x="168.2" y="300.64" class="st9" width="11.57" height="11.57"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>

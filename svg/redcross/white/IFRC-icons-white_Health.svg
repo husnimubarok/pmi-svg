@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g>
+		<circle class="st0" cx="250" cy="91.87" r="25.66"/>
+		<line class="st0" x1="250.69" y1="117.53" x2="250.69" y2="451.41"/>
+		<path class="st0" d="M227.24,188.15c-9.85,0-17.83,7.98-17.83,17.83v0.26c0,9.85,7.98,17.83,17.83,17.83l39.64,0.01
+			c29.76,0.01,53.88,24.14,53.88,53.9v0c0,29.77-24.13,53.9-53.9,53.9h-12.72c-12.13,0-21.97,9.84-21.97,21.97v0
+			c0,8.38,4.77,16.03,12.29,19.72h0c32.89-0.46,46.54,41.91,19.57,60.74l-12.13,8.77c-0.67,0.47-1.53-0.22-1.24-0.97l9.19-21.93
+			c3.14-8.03-2.78-16.7-11.4-16.7h0c-29.76,0-53.89-24.13-53.89-53.89v0c0-29.76,24.13-53.89,53.89-53.89h16.87
+			c9.85,0,17.83-7.98,17.83-17.83v0c0-9.85-7.98-17.83-17.83-17.83l-39.64-0.01c-29.76-0.01-53.88-24.14-53.88-53.9v-1.54
+			c0-29.07,23.05-52.9,52.11-53.87h78.72c10.1,0,18.29,8.19,18.29,18.29v0c0,10.05-8.11,18.22-18.16,18.29L227.24,188.15z"/>
+		<polyline class="st12" points="369.19,187.16 346.9,172.87 369.19,158.57 		"/>
+		<line class="st12" x1="346.9" y1="172.87" x2="320.94" y2="172.87"/>
+		<circle class="st9" cx="303.13" cy="168.63" r="4.24"/>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>
