@@ -6,8 +6,8 @@
 <table>
  <tr>
    <td><img="./color/IFRC-icons-colour_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
-   <td><img="./color/IFRC-icons-colour_Flood.svg" alt="Flood" width="100"></td>
-   <td><img="./color/IFRC-icons-colour_Wildfire.svg" alt="Wildfire" width="100"></td>
+   <td><img="./color/IFRC-icons-colour_Floods.svg" alt="Flood" width="100"></td>
+   <td><img="./color/IFRC-icons-colour_Conflict.svg" alt="Conflict" width="100"></td>
  </tr>
  <tr>
    <td>Earth</td>
