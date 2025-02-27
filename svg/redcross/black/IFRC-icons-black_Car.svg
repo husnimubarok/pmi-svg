@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#BCBEC0;stroke-width:4;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#D1D3D4;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:none;opacity:0.35;fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:16;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:16;stroke-linecap:square;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<g id="Icons">
+	<g>
+		<g>
+			<path class="st0" d="M391.12,224.72H151.24l0,0c18.8-34.63,46.76-66.05,146.66-66.93c3.92-0.03,7.86,0.1,11.77,0.38h0
+				c7.45,0.53,14.87,1.57,22.14,3.27C369.38,170.21,391.12,188.6,391.12,224.72L391.12,224.72z"/>
+			<circle class="st0" cx="151.24" cy="324.01" r="24.43"/>
+			<circle class="st0" cx="343.14" cy="324.01" r="24.43"/>
+			<path class="st0" d="M421.23,297.16v-31.54c0-18.65-12.24-35.09-30.11-40.43h0H150.99c-22.41,0-75.24,5-83.58,45.58v26.39h0
+				c-6.1,0-11.05,4.95-11.05,11.05v4.59c0,6.1,4.95,11.05,11.05,11.05h35.86c0.09-26.42,21.53-47.8,47.97-47.8
+				c26.44,0,47.88,21.39,47.97,47.8h95.96c0.09-26.42,21.53-47.8,47.97-47.8c26.44,0,47.88,21.39,47.97,47.8h30.12
+				c5.55,0,10.05-4.5,10.05-10.05v-6.59C431.28,301.66,426.78,297.16,421.23,297.16L421.23,297.16z"/>
+			<line class="st0" x1="266.85" y1="151.55" x2="266.85" y2="221.17"/>
+			<line class="st0" x1="351.14" y1="166.2" x2="351.14" y2="219.17"/>
+			<line class="st0" x1="67.41" y1="281.14" x2="91.27" y2="281.14"/>
+			<line class="st0" x1="391.12" y1="263.18" x2="421.23" y2="263.18"/>
+		</g>
+	</g>
+</g>
+<g id="Text" class="st1">
+</g>
+</svg>
