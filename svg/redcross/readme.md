@@ -5,9 +5,9 @@
 ### Color Icons
 <table>
   <tr>
-    <td><img src="./color/IFRC-icons-colour_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
-    <td><img src="./color/IFRC-icons-colour_Floods.svg" alt="Flood" width="100"></td>
-    <td><img src="./color/IFRC-icons-colour_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
+    <td><img src="./color/Earthquake-destruction_colour.svg" alt="Earthquake" width="100"></td>
+    <td><img src="./color/Floods_colour.svg" alt="Flood" width="100"></td>
+    <td><img src="./color/Cash-programme_colour.svg" alt="Cash Assistance" width="100"></td>
   </tr>
   <tr>
     <td>Earthquake</td>
@@ -19,9 +19,9 @@
 ### Black and White Icons
 <table>
   <tr>
-    <td><img src="./black/IFRC-icons-black_Earthquake-destruction.svg" alt="Earthquake" width="100"></td>
-    <td><img src="./black/IFRC-icons-black_Floods.svg" alt="Flood" width="100"></td>
-    <td><img src="./black/IFRC-icons-black_Cash-programme.svg" alt="Cash Assistance" width="100"></td>
+    <td><img src="./black/Earthquake-destruction_black.svg" alt="Earthquake" width="100"></td>
+    <td><img src="./black/Floods_black.svg" alt="Flood" width="100"></td>
+    <td><img src="./black/Cash-programme_black.svg" alt="Cash Assistance" width="100"></td>
   </tr>
   <tr>
     <td>Earthquake</td>
@@ -34,13 +34,13 @@
 <table>
   <tr>
     <td style="background-color: lightgray; text-align: center;">
-      <img src="./white/IFRC-icons-white_Earthquake-destruction.svg" alt="Earthquake" width="100">
+      <img src="./white/Earthquake-destruction_white.svg" alt="Earthquake" width="100">
     </td>
     <td style="background-color: lightgray; text-align: center;">
-      <img src="./white/IFRC-icons-white_Floods.svg" alt="Flood" width="100">
+      <img src="./white/Floods_white.svg" alt="Flood" width="100">
     </td>
     <td style="background-color: lightgray; text-align: center;">
-      <img src="./white/IFRC-icons-white_Cash-programme.svg" alt="Cash Assistance" width="100">
+      <img src="./white/Cash-programme_white.svg" alt="Cash Assistance" width="100">
     </td>
   </tr>
   <tr>
